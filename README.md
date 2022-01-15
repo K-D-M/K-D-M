@@ -1,4 +1,4 @@
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!--![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -14,3 +14,4 @@
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=K-D-M&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+-->
