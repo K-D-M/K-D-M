@@ -15,5 +15,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-d-m&count_private=true&theme=merko&include_all_commits=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
